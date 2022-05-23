@@ -40,4 +40,4 @@ Un escudero, además de la información que tiene por ser personaje, tiene la si
 2. Cuando el usuario haga clic en el botón "muere", tiene que cambiar el estado del personaje, y la interfaz debe reflejar el cambio.
 3. Cuando el usuario haga clic en el botón "habla", el elemento con clase `comunicaciones` debe aparecer con el texto y la imagen correspondientes. Haz que este elemento `comunicaciones` tenga la clase `on` durante 2 segundos y luego se le quite.
 
-https://app.netlify.com/sites/202205-w07-sergio-garcia/settings/domain
+https://202205-w07-sergio-garcia.netlify.app
