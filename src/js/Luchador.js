@@ -1,5 +1,5 @@
-class Luchador {
-    constructor() {
+export class Luchador {
+    constructor( type, image, nameChar, family, age, stateAoD, weapon, skill, message) {
         this.type = type;
         this.image = image;
         this.nameChar = nameChar;

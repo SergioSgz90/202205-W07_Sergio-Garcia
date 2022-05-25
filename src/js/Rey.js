@@ -1,5 +1,14 @@
-class Rey {
-    constructor() {
+export class Rey {
+    constructor(
+        type,
+        image,
+        nameChar,
+        family,
+        age,
+        stateAoD,
+        yearsAsKing,
+        message
+    ) {
         this.type = type;
         this.image = image;
         this.nameChar = nameChar;
